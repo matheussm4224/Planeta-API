@@ -9,6 +9,13 @@
    	"mongoDB" : {
    		"versão" : "v4.0.10"
    	},
+   	"api" : {
+   		"get-nome" : "localhost:8080/StarWars/api/planetas/find/:nome",
+   		"get-id" : "localhost:8080/StarWars/api/planetas/:id",
+   		"get" : "localhost:8080/StarWars/api/planetas/",
+   		"post" : "localhost:8080/StarWars/api/planetas/",
+   		"delete" : "localhost:8080/StarWars/api/planetas/:id"
+   	},
     "sistema_operacional" : "linux ubuntu x64"
   }
 }
