@@ -1,0 +1,14 @@
+{
+  "star_wars API" : {
+   	"java" : {
+   	"versão" : "jdk 1.8",
+	   	"tomcat" : {
+	   		"versão": 7
+	   	}
+   	},
+   	"mongoDB" : {
+   		"versão" : "v4.0.10"
+   	},
+    "sistema_operacional" : "linux ubuntu x64"
+  }
+}
